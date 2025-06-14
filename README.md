@@ -20,7 +20,7 @@ Mencari kesempatan untuk berkontribusi sebagai Data Analyst yang dapat memberika
 
 ## 📁 Portfolio Projects
 
-### 1. 🏛️ [Analisis Efektivitas Belanja Pemerintah Daerah](./project1-apbd-analysis)
+### 1. 🏛️ [Analisis Efektivitas Belanja Pemerintah Daerah](projects/project1-apbd-analysis)
 **Status**: 🚧 In Progress | **Timeline**: 4-6 weeks
 
 #### Overview
@@ -40,7 +40,7 @@ Menganalisis efektivitas alokasi dan realisasi APBD terhadap pertumbuhan ekonomi
 #### Tech Stack
 `Power BI` `Excel`
 
-[View Project →](./project1-apbd-analysis)
+[View Project →](projects/project1-apbd-analysis)
 
 ---
 
