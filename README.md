@@ -22,73 +22,24 @@ Mencari kesempatan untuk berkontribusi sebagai Data Analyst yang dapat memberika
 
 ### 1. 🏛️ [Analisis Efektivitas Belanja Pemerintah Daerah](projects/project1-apbd-analysis)
 **Status**: 🚧 In Progress | **Timeline**: 4-6 weeks
-
-#### Overview
-Menganalisis efektivitas alokasi dan realisasi APBD terhadap pertumbuhan ekonomi regional dan kesejahteraan masyarakat di 34 provinsi Indonesia.
-
-#### Business Value
-- Mengidentifikasi pola belanja daerah yang efektif
-- Memberikan rekomendasi alokasi anggaran optimal
-- Mendukung evidence-based policy making
-
-#### Key Features
-- 📊 Interactive dashboard showing budget allocation vs. economic growth
-- 📈 Correlation analysis between spending and HDI (Human Development Index)
-- 🗺️ Geographic visualization of budget effectiveness
-- 📉 Time-series analysis of budget realization rates
-
-#### Tech Stack
-`Power BI` `Excel`
-
 [View Project →](projects/project1-apbd-analysis)
 
 ---
 
-### 2. ☕ [Dashboard Analisis Tren Pasar Kopi Indonesia](./project2-coffee-market)
+### 2. ☕ [Dashboard Analisis Tren Pasar Kopi Indonesia](projects/project2-coffee-market)
 **Status**: 📋 Planned | **Timeline**: 6-8 weeks
-
-#### Overview
-Comprehensive analysis of Indonesian coffee market trends, covering price fluctuations, production volumes, and consumer behavior to help SMEs make data-driven decisions.
-
-#### Business Value
-- Prediksi harga kopi untuk planning UMKM
-- Analisis seasonal trends untuk inventory management
-- ROI calculator untuk calon pengusaha coffee shop
-
-#### Key Features
-- 📊 Real-time coffee price monitoring dashboard
-- 🌍 Interactive map of Indonesian coffee production regions
-- 📈 Predictive model for coffee price trends
-- 💰 Coffee shop ROI calculator and break-even analysis
-
-#### Tech Stack
-`Python` `Power BI` `Web Scraping`
-
-[View Project →](./project2-coffee-market)
+[View Project →](projects/project2-coffee-market)
 
 ---
 
-### 3. 💹 [Visualisasi Perbandingan Kinerja Reksadana](./project3-mutual-funds)
+### 3. 💹 [Visualisasi Perbandingan Kinerja Reksadana](projects/project3-mutual-funds)
 **Status**: ✅ Completed | **Timeline**: 3-4 weeks
+[View Project →](projects/project3-mutual-funds)
 
-#### Overview
-A user-friendly visualization tool to help retail investors understand and compare mutual fund performance in Indonesia.
-
-#### Business Value
-- Simplify investment decision-making for retail investors
-- Provide risk-adjusted performance metrics
-- Educational tool for financial literacy
-
-#### Key Features
-- 📊 Interactive performance comparison dashboard
-- 📈 Risk vs. return scatter plots
-- 🎯 Portfolio optimization suggestions
-- 📚 Educational infographics on mutual fund basics
-
-#### Tech Stack
-`Excel` `Power BI` `Python`
-
-[View Project →](./project3-mutual-funds)
+---
+### 4. 💹 [E-commerce Sales Analysis](projects/project4-ecommerce-analysis)
+**Status**: ✅ Completed | **Timeline**: 3-4 weeks
+[View Project →](projects/project4-ecommerce-analysis)
 
 ---
 
