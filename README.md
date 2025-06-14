@@ -1,2 +1,3 @@
-# project_portfolio
-Hello, world!
+# Project Portfolio: Data Analytics and Visualisation
+Data portfolio showcasing analytics projects and visualizations
+
