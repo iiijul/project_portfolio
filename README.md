@@ -54,7 +54,7 @@ Mencari kesempatan untuk berkontribusi sebagai Data Analyst yang dapat memberika
 
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/juliandarosyadi/
+- 💼 [LinkedIn](https://www.linkedin.com/in/juliandarosyadi/)
 - 📧 Email: djoelianda@gmail.com
 - ☕ Coffee Instagram: @chilled60.coffee
 
