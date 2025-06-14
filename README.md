@@ -33,12 +33,12 @@ Mencari kesempatan untuk berkontribusi sebagai Data Analyst yang dapat memberika
 ---
 
 ### 3. 💹 [Visualisasi Perbandingan Kinerja Reksadana](projects/project3-mutual-funds)
-**Status**: ✅ Completed | **Timeline**: 3-4 weeks
+**Status**: 📋 Planned | **Timeline**: 3-4 weeks
 [View Project →](projects/project3-mutual-funds)
 
 ---
 ### 4. 💹 [E-commerce Sales Analysis](projects/project4-ecommerce-analysis)
-**Status**: ✅ Completed | **Timeline**: 3-4 weeks
+**Status**: ✅ Planned | **Timeline**: 3-4 weeks
 [View Project →](projects/project4-ecommerce-analysis)
 
 ---
